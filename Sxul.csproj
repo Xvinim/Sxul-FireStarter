@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Content\Armor\Vanilla\GildedCopperHelmet_Head.png" />
+	  <None Remove="Content\Armor\Vanilla\GildedSilverGreatHelm_Head.png" />
+	  <None Remove="Content\Armor\Vanilla\GildedTungsten\GildedTungstenGreatHelm_Head.png" />
+	  <None Remove="Content\Armor\Vanilla\SilverMask\SilverMask_Head.png" />
+	  <None Remove="documentation%28learning essentially%29\basics\Reworks.txt" />
+	  <None Remove="documentation%28learning essentially%29\TheProgressionForPlayerTesting.txt" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Assets\Achievements\" />
+	  <Folder Include="Assets\UI\" />
+	  <Folder Include="Content\Items\Accessories\Magic\" />
+	  <Folder Include="Content\Items\Accessories\Ranged\" />
+	  <Folder Include="Content\Items\Accessories\Summon\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="SubworldLibrary">
+	    <HintPath>SubworldLib\SubworldLibrary.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

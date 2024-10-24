@@ -1,0 +1,5 @@
+displayName = Fire Starter
+author = Xvinim
+version = 0.0.1.1
+
+modReferences = SubworldLibrary

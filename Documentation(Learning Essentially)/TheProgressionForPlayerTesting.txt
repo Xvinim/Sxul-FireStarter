@@ -1,0 +1,111 @@
+Weapons:
+Name: Ivory Blade... Where: Found in Dungeon Chests with a 10% Chance... Special: The Ivory Blade will do 3X Damage on the 10th critical strike you perform... Class: Melee
+Name: Naruka... Where: Dropped by King Slime with a 50% chance... Special: None... Class: Melee
+Name: Seldom Harbinger... Where: Dropped by Wall of Flesh with a 25% Chance... Special: Hit Enemies are Targeted... Class: Magic
+Name: The Red Devil... Where: Dropped by The Eye of Cthulhu with a 25% Chance... Special: It's Massive ig... Class: Melee
+Name: Time Scale... Where: Dropped by Skeletron with a 33.33% Chance... Special: Fast asf... Class: Melee
+Name: Unholy Blast... Where: 50 Brain Chunks, 25 Tissue Samples/Shadow Scales, 10 Demonite/Crimtane at an Anvil... Special: Fires a Projectile like the Enchanted Sword... Class: Melee
+Name: World Bane... Where: Dropped by Eater of Worlds with a 33.33% Chance... Special: None... Class: Melee
+Name: Xenith... Where: 5 Zeniths at Any of The Three Fairy Jars... Special: GUITAR... Class: Melee
+Name: Yulah... Where: Brain of Cthulhu with a 33.33% Chance... Special: Literally 6 ticks to use... Class: Melee(Props to Mark(lol))
+Name: Tin Alloy Sword... Where: 12 Tin and 3 Copper at an Anvil... Special: None... Class: Inflictor
+Name: Black Hole... Where: Forgotten Cultist with a 25% Chance... Special: Homes in on Bosses, on Right-Click, Arrows Teleport Behind Boss, With a 75% Chance to Miss... Class: Ranged
+Name: Celestial Star... Where: Forgotten Cultist with a 25% Chance... Special: None... Class: Summon
+Name: New Moon... Where: Forgotten Cultist with a 25% Chance... Special: Obliterates Lol... Class: Magic
+Name: Singe... Where: Forgotten Cultist with a 25% Chance... Special: Right-Clicking makes a circle charge, once charged Insta-Kills all enemies excluding bosses, Left-Click will
+Summon Cuts around the player. Middle Mouse will switch to Melee mode from Magic, in Melee mode Singe is swung Normally, and On Right-Click Summons an Orb On Top of Your Head That
+Does Damage to Enemies that Get Close... Class: Melee
+Name: Murasoma... Where: Crafted with 15 Magimite and 5 Fallen Stars... Special: None... Class: Magic
+Name: Crescent Rose... Where: Dropped By the twins with a 0.4% Chance... Special: Insanely Good Dash that doubles damage(Nearly triples)... Class: Melee
+Name: Blade of Judgement... Where: Dropped by the Destroyer with a 0.4% Chance... Special: Can Combo, after hitting, right-click, then  jump and left-click... Class: Melee
+Name: Crystalline Sealed Blade: Murakumo... Where: Dropped by Skeletron Prime... Special: Inflicts a unique debuff that lowers defense by 1, damage by 3 aswell, and multiplies
+damage taken by 3%, inflicted with a 10% chance on-hit... Class: Melee
+
+Materials:
+Name: Brain Chunk... Desc: A Chunk of the Brain of Cthulhu. Very Useful for Special Crafting.
+Name: Etched Sand... Desc: Pretty distinctive to see, requires a silver pick and up, and only spawn in the underground desert.
+Name: Ice Fragment... Desc: Currently Does Nothing, But is dropped by Deerclops.
+Name: Magimite Ore... Desc: Crafted with a Fallen Star and 10 Luminite ore.
+Name: Mana Core... Desc: Used to Activate Mana, also Gives 40 Mana, Crafted with 10 Fallen Stars.(Btw, this disables Mana Crystals until it's used.)
+Name: Rinstride... Desc: An Ore Found in The Dungeon's Chests.
+Name: Soul Core... Desc: Fucked Asf, Don't try using it, but if your that curious, Shimmer the Mana Core.
+Name: Blight Ore... Desc: Found Under Ground After Beating Wall of Flesh. Can be Mined with Molten pick
+Name: Radiance Bar... Desc: An alloy of Blight ore and Hallowed Bars, Post-Mecha Material.
+
+Accessories:
+Cursed Oil Pot(On Hit you Inflict Cursed Flames, Quite Like the Fire Gauntlet)...(Crafted With 10 Cursed Flames and a Bottle at a Mythril Anvil)
+Devils Bargain(Magic, Melee, Summon, and Ranged get their damage upgraded by 15%, at the cost of 20 defense)...(Dropped By the Wall of Flesh in Expert Mode)
+Stim Shot(Increses Magic and Melee by 5%, +2 Max Minion and +1 Max Sentry)...(Dropped by Queen Bee with a 20% Chance)
+Engraved Stone(10% Base Infliction chance)...(Forest/Cave or 5 Stone and Tin Broadsword at a Anvil)
+Vine Clump(15% chance to inflict poison)...(Jungle or 8 Vines at a Workbench)
+Mossy Stone(10% Base Infliction, And 15% Poison)...(Engraved Stone and Vine Clump at any Tree)
+Flame Talisman(20% fire infliction)...(Shadow Chests)
+Ice Stone(10% frost burn infliction)(in)...(Ice Biome or 100 Ice Blocks at a Ice Machine)
+Cursed Corruption Seed(15% cursed flame infliction)...(35 Rotten Chunks/Vertebrae and 5 Cursed Flames/Ichor at a Demon Alter)
+Confusion Mask(25% Confusion and 10% Base Infliction)...(Brain Cell and Engraved Stone at a Demon Alter)
+True Flame Talisman(20% flame, 15% Cursed Flame, and 10% Frost Burn)...(Flame Talisman, Ice Stone and Cursed Corruption Seed at Obsidian Bricks)
+Neuron(50% confusion infliction)...(13 Brain Chunk's at a Demon Alter)
+Brain Cell(25% confusion infliction)...(8 Brain Chunk's at a Workbench)
+Brain of True Confusion(75% confusion infliction)...(Brain of Cthulhu)
+Engraved Fire(10 Base and 20% Flame)...(Engraved Stone and Flame Talisman at a Ash Tree)
+Evil Rock(20% base infliction)...(Engraved Stone and 5 Shadow Scales/Tissue Samples at a Anvil)
+Heavenly Stone(30% base infliction)...(Evil Rock, 10 Cloud blocks and 30 stone at a Sky Mill)
+Ice Rock(10% Frost Burn and 20% Base Infliction)...(Evil Rock and Ice Stone at a Tinkerer Workshop)
+Cursed Rock(20% Base and 15% Cursed Flame Infliction)...(Evil Rock and Cursed Corruption Seed at a Tinkerer Workshop)
+Heavenly Corruption(30% Base and 15% Cursed Flame Infliction)...(Cursed Corruption Seed and Heavenly Stone at a Tinkerer Workshop)
+Heavenly Blaze(30% Base and 20% to Flames, Forst Burn, and Cursed FLames)...(Heavenly Stone and True Flame Talisman at a Sky Mill)
+Evil Cell(20% Base and 25% Confusion Infliction)...(Brain Cell and Evil Rock at a Tinkerer Workshop)
+Corrupted Cell Stone(15% Cursed Fire, 30% Base, and 50% Confusion Infliction)...(Cursed Corruption Seed, Neuron and Heavenly Stone at a Sky Mill and Anvil[Both Should be Next to Each Other!])
+Heavenly Fire(30% Base and 20% Flame Infliction)...(Heavenly Stone and Flame Talisman at a Sky Mill)
+Angelic Coldness(30% Base and 35% Frost Burn Infliction)...(Heavenly Stone and Ice Stone at a Ice Machine)
+Poisonous Rock(20% Base and 25% Posion Infliction)...(Evil Rock and Vine Clump at a Tinkerer Workshop)
+Poison Vile(80% poison infliction)...(Bottle, 15 Stingers, 6 Vines, and 18 Jungle Spores at a Tinkerer Workshop)
+Poison Stone(30% Base and 80% Poison)...(Heavenly Stone and Poison Vile at a Imbueing station)
+Celestial Bodies(30% Base and 15% All Infliction)...(Poison Stone, True Flame Talisman, and Evil Cell at a Mythril Anvil)
+Flame King, Ifrit(50% flame infliction)...(True Flame Talisman and Heavenly Fire at a Ash Tree)
+Pearlescent Ifrit(30% Base and 50% Flame Infliciton)...(Flame King, Ifrit and Heavenly Stone at a Sky Mill)
+Soul Stone(50% base infliction)...(Cracked Soul and 3 Hellstone Bars at a Soul Weaver)
+Soul Charade(50% Base and 50% Flame Infliction)...(Soul Stone and Flame King, Ifrit at a Soul Weaver)
+Soul King(50% Base, 20% Flame, 15% Cursed Flame, and 10% Frost Burn Infliction)...(Soul Stone and True Flame Talisman at a Soul Weaver)
+Soul Poison (50% Base and 65% Poison Infliction)...(Soul Stone and Poison Vile at a Soul Weaver)
+Decay Crown (10% Entropy Infliction Chance)...(Cracked Soul and Platinum/Gold Crown at a Anvils)
+Chaos Bell (25% Entropy Infliction Chance)...(Decaying Soul and Silver Bell at a Adamantite Furnace)
+Midnight Decadence (50% Entropy Infliction Chance)...(Ensnared Soul and Decay Crown at a Soul Weaver)
+Night's Chaos (50% Entropy, 50% Base Infliction)...(Soul Stone and Midnight Decadence at a Tinkerer Workshop)
+Abyssal Flamecrest (10% Entropy, 50% Flame, 30% Base)...(Flame King, Ifrit, Heavenly Stone, and Decay Crown at a Tinkerer Workshop)
+Twilight Engraved Relic (50% Entropy, 10% Base, 20% Cursed Flame)...(MidNight Decadence, 25 Rotten Chunks, 3 Cursed Flames/Ichor)
+Cryoflare Sigil of Ifrit (50% flame, 25% Frost)...(Flame King, Ifrit and Ice Stone)
+Decaying Scourge (20% Entropy, 30% Base, 25% Confusion)...(Pity Soul, Brain of True Confusion, and Soul Stone at a Evil Biome Tree)
+
+Races:
+Human(Mana Regen Boosted by 3)
+Dryad(Life Regen Boosted by 3)
+Elf(Ranged Damage Boosted by 3%)
+Lizhard(Defense Boosted by 3)
+Vampire(Steal 3 HP every 2 Seconds)
+If You Choose None you Get Upgraded Movement Speed.
+
+Bosses:
+Forgotten Cultist: Summoned With The Forgotten Robes Item(Which are gotten by Killing Moon Lord, 100% to get 1-3 of them).
+
+Perma-Boosting Items:
+Cracked Soul(Boosts defense by 1: Max 5)(PHM)
+Blighted Soul(Boosts HP by 20: Max 2)(PHM)
+Ensnared Soul(Boosts MP by 20: Max 2)(PHM)
+Righteous Soul(Boosts Base Debuff by 10%: Max 1)(Hm)
+Decaying Soul(Boosts Crit by 2x: Max 4)(HM)
+Murderous Soul(Sacrafices 20 MP for 20 HP: Max 5))(HM)
+Pity Soul(Increases Critical Chance by 2%: Max 3)(HM)
+
+Blocks:
+Soul Weaver: Crafted With 5 Obsidian and 3 Cracked Souls.
+
+Armor:
+Xvinim Dev Set("SxulFire" Seed World, Make sure it isn't turned off in the configs. In the seed you'll get Junk thrown into your inventory, with a 5% chance to get good
+Shit, each piece of the armor set included, HM Only though.)(Vanity)
+Gilded Copper Helmet(13 Copper Bars)(1 defense, 5% Boost to Flame Infliction, Set Bonus: 5% Base Debuff, Gilded Dash.)
+Gilded Silver Great Helm(17 Silver Bars)(5 defense, 5% Boost to Frost Infliction, Set Bonus: +3 defense, Gilded Dash)
+Gilded Tungsten Great Helm(17 Tungsten Bars)(4 defense, 6% Boost to Frost Infliction, Set Bonus: +4 defense, Gilded Dash)
+Silver Mask(14 Silver Bars)(4 defense, 2% Melee damage boost, enemies are more likely to target you, Set Bonus: Boosted Speed and Acceleration)
+Etched Armour Set(Head: 16, Chest: 23, Legs: 15, Etched Sand Bars. Total: 44.)(Head: 6 defense, Base Debuff Boosted by 10%. Chest: 8 defense, 4% Scorch Chance. Legs: 5 defense, 8%
+Scorch Chance. Set Bonus: 3% Magic Damage Boost, Gilded Dash)

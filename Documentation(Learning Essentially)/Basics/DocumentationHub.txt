@@ -1,0 +1,68 @@
+[Header("Documentation Hub")]
+This is our Documents, A hub of sorts to reference other documents on simpler items and to have it more broken down then in here
+to put it simply, this area is all about learning, and documenting what we learn, in order to learn more efficently.
+
+--->Key:
+"<---" = Important
+"<--" = Noted
+"->" = Item of value
+"-->" = Main topic for items
+"--->" = Area key
+"\YourShit/DocIG\" = Reference
+
+--->Tasks:
+<---"rework bosses, take examples from either wof or deerclops, since they have something special."
+<--- "Finish doing up the Forgotten Cultists loot"
+<-- "Finish off Pre Hardmode Progression"
+<--- "Document all we've already done"
+
+--->Ideas
+<--"Forgotten Cultist Loot Ideas. 1, Relic(self-explanitory). 2, Lunar Shards(can be used to craft up some shit.<Also gives the change to
+learn armour/vanity, spriting>). 3, Small Megolathin Soul(A soul upgrade exclusive to post-hardmode). 4, Key to The Endless Void(A Key that sets
+Post-Hardmode on usage.)"
+
+---> Specific topics are regarded to in lower the lower sections, and most likely are reference for other documents.
+
+--> Bosses/Boss Reworking
+
+<-- To be put simply, this section will entertain the idea of creating bosses and reworking existing vanilla bosses.
+
+\Documentation/Basics/Reworks\
+<--- ^ has everything about reworking.
+
+CDC(Custom Damage Class)
+Notes:
+apply damage, take away by defense, multiply by crit, multiply by random addition(
+10% chance to inflict OnFire, 20% chance to inflict cursed flames, 20& chance to inflict confusion, 30% chance to inflict poison, etc.
+Basically, this class has consumables that will give random chances to apply debuffs/do extra damage, shit like that. and this can be customized
+to an extent, which could make a weak ass build or a strong ass build. NAME: Inflictor.
+) Alls good with inflictor. Just have to make 50 or so accessories(including combinations) and maybe add more debuff afflictions(maybe even custom
+Debuffs! LETSGOBITCH!!!) 
+->>>>>>>>>>>>>>>>>>>List of accessories below:
+Engraved Stone(10% Base Infliction chance)(in)... Vine Clump(15% chance to inflict poison)(in)... Mossy Stone(VC + ES)(in)...
+Flame Talisman(20% fire infliction)(in)... Ice Stone(10% frost burn infliction)(in)... Cursed Corruption Seed(15% cursed flame infliction)(in)
+... True Flame Talisman(FT + IS + CCS)(in)... Neuron(50% confusion infliction)(in)... Brain Cell(25% confusion infliction)(in)... Brain of True
+Confusion(75% confusion infliction)(in)... Engraved Fire(FT + ES)(in)... Evil Rock(20% base infliction)(non)... Heavenly Stone(30% base
+infliction)(in)... Ice Rock(ER + IS)(in)... Cursed Rock(ER + CCS)(in)... Heavenly Corruption(CCS + HS)(in)... Heavenly Blaze(HS + TFT(all set
+to 20%))(in)... Confusion Mask(BC + ES)(in)... Evil Cell(BC + ER)(in)... Corrupted Cell Stone(CCS + N + HS)(in)... Heavenly Fire(HS + FT)(in)...
+Angelic Coldness(HS + IS(35%))(in)... Poisonous Rock(ER + VC(25%))(in)... Poison Vile(80% poison infliction)(in)... Poison Stone(HS + PV)(in)
+... Celestial Bodies(HS + 15% all affliction(75% btw))(in)... Flame King, Ifrit(50% flame infliction)(in)... Pearlescent Ifrit(FK,I + HS)(in)... Soul
+Stone(50% base infliction)(in)... Soul Charade(SS + FK,I)(in)... Soul King(SS + TFT)(in)...
+Soul Poison (SS + PV(lowered to 65%))(in)...Decay Crown (10% Entropy Infliction Chance)(in)... Chaos Bell (25% Entropy Infliction Chance)(non)...
+Midnight Decadence (50% Entropy Infliction Chance)(non)...
+So Far: 42, not done: 7
+
+apply damage, take away by defense, divide by crit, multiply by range(
+this class has two options, ranger-like weapons, or melee-like weapons, With ranger-like weapons they do extra damage the further away they are
+vice versa, melee-like weapons do more damage the more up-close and personal you are, and will also get a sick ass extra damage if they're so
+close they take damage. NAME: Yshtoth
+) 
+
+UNDONE ACCESSORIES FOR INFLICTOR:
+Chaos Bell (25% Entropy Infliction Chance)(non)...
+Midnight Decadence (50% Entropy Infliction Chance)(non)...
+Night's Soul Chaos (50% Entropy, 50% Base Infliction)(non)...
+Abyssal Flamecrest (10% Entropy, 50% Flame, 30% Base)(non)...
+Twilight Engraved Relic (50% Entropy, 10% Base, 20% Cursed Flame)(non)...
+Cryoflare Sigil of Ifrit (50% flame, 25% Frost)(non)...
+Flamecrest of Madness (20% Entropy, 30% Base, 25% Confusion)(non)...

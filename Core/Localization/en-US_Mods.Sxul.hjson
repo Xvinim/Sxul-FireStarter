@@ -1,0 +1,827 @@
+Items: {
+	Murasoma: {
+		Tooltip: "'Magic forged blade of the dungeon'"
+		DisplayName: Murasoma
+	}
+
+	Xenith: {
+		DisplayName: Xenith
+		Tooltip:
+			'''
+			'Made through five sets of Infinity'
+			The ultimate Riff.
+			'''
+	}
+
+	Magimite: {
+		DisplayName: Magimite
+		Tooltip: ""
+	}
+
+	MagimiteOre: {
+		DisplayName: Magimite Ore
+		Tooltip: "'Luminite's form of great magic.'"
+	}
+
+	IronGauntlet: {
+		DisplayName: Iron Gauntlet
+		Tooltip: "'I should save this iron for something else..'"
+	}
+
+	TheRedDevil: {
+		DisplayName: The Red Devil
+		Tooltip: "'It's as if you are being watched'"
+	}
+
+	Naruka: {
+		DisplayName: Naruka, Ninja's Blade
+		Tooltip: "'A ninja are we..?'"
+	}
+
+	Yulah: {
+		DisplayName: Yulah
+		Tooltip: "'The Shadows Strike a many.'"
+	}
+
+	IceFragment: {
+		DisplayName: Ice Fragment
+		Tooltip: Forgotten echoes linger here.. they say 'Freeze'.
+	}
+
+	WorldBane: {
+		DisplayName: World Bane
+		Tooltip: "'Destruction, Purge the Sinners! I, will destroy the World!'"
+	}
+
+	TimeScale: {
+		DisplayName: Time Scale
+		Tooltip: "'Time simply stops inside this thing..'"
+	}
+
+	SaviorsGrace: {
+		Tooltip: "'You are beyond saving, for you are at the end of this Blade.'"
+		DisplayName: Saviors Grace
+	}
+
+	StimShot: {
+		Tooltip:
+			'''
+			'Honey in my blood!... is this bad for me?'
+			Boosts max minions by 2.
+			Boosts max sentries by 1.
+			Boosts melee damage by 5%
+			Boosts magic damage by 5%
+			'''
+		DisplayName: Stim Shot
+	}
+
+	SeldomHarbinger: {
+		Tooltip:
+			'''
+			'The Wall of Flesh must've sealed something inside..'
+			Shoots the gears of a forgotton mecha, these gears target the first they hit.
+			'''
+		DisplayName: Seldom Harbinger
+	}
+
+	RinstrideBar: {
+		Tooltip: ""
+		DisplayName: Rinstride Bar
+	}
+
+	Rinstride: {
+		Tooltip:
+			'''
+			'An Ancient ore, not found anywhere but this old dungeon.'
+			It Pulses with Power.
+			'''
+		DisplayName: Rinstride
+	}
+
+	EtchedSandBar: {
+		Tooltip: ""
+		DisplayName: Etched Sand Bar
+	}
+
+	EtchedSand: {
+		Tooltip: "'You Like..?'"
+		DisplayName: Etched Sand
+	}
+
+	DevilsBargain: {
+		DisplayName: Devils Bargain
+		Tooltip:
+			'''
+			'Are you willing to make this bet..?'
+			Lowers defense by 20
+			Raises damage by 25%
+			'''
+	}
+
+	BrainChunk: {
+		DisplayName: Brain Chunk
+		Tooltip: ""
+	}
+
+	UnholyBlast: {
+		DisplayName: Unholy Blast
+		Tooltip:
+			'''
+			'A little gross.. but strong..'
+			Fires the blast of unholiness.
+			'''
+	}
+
+	UnholyHarbinger: {
+		Tooltip: ""
+		DisplayName: Unholy Harbinger
+	}
+
+	ForgottenRobes: {
+		Tooltip: "'I.. feel like i know this one..'"
+		DisplayName: Forgotten Robes
+	}
+
+	Singe: {
+		DisplayName: Singe
+		Tooltip:
+			'''
+			Use mmb to switch from magic to melee mode
+			Forged in the Flames of a Celestial Star
+			'This thing is Badass.'
+			'''
+	}
+
+	CelestialStar: {
+		Tooltip: Summons a New Nebula Moon
+		DisplayName: Celestial Star
+	}
+
+	NewMoon: {
+		Tooltip:
+			'''
+			'
+			'Oh Celestial Stars.. Give thy power unto me.
+			Rend your foes with the Moon itself
+			'''
+		DisplayName: New Moon
+	}
+
+	BlackHole: {
+		Tooltip:
+			'''
+			'the void lets no rest, as it hunts thouroughly till death.'
+			'I see your skill issuing huh?'
+			'''
+		DisplayName: Black Hole
+	}
+
+	ForgottenBossBag: {
+		Tooltip: "'this one actually drops things of use..'"
+		DisplayName: Forgotten Cultist Bag
+	}
+
+	SoulOfNightsBane: {
+		DisplayName: Soul Of Nights Bane
+		Tooltip: ""
+	}
+
+	CrackedSoul: {
+		Tooltip:
+			'''
+			With The Consumption of this Old and Shattered Soul, Your Defense is Boosted by 1 Permanantly.
+			'Despite everything, It's still you.'
+			'''
+		DisplayName: Cracked Soul
+	}
+
+	SoulCore: {
+		Tooltip: Inherit the essence of soul. Sacrifices Your Mana in the process
+		DisplayName: Soul Core
+	}
+
+	ManaCore: {
+		Tooltip: Inherit the power of Mana. Sacrifices Your Measured Soul in the process
+		DisplayName: Mana Core
+	}
+
+	VampireRace: {
+		Tooltip:
+			'''
+			Stalking in the night, vampires need blood to survive.
+			As a Vampire you can steal life from your foes
+			'''
+		DisplayName: Vampire Race
+	}
+
+	LizhardRace: {
+		Tooltip:
+			'''
+			A Lizhard works diligently, and is resilient
+			As a Lizhard your defense is boosted
+			'''
+		DisplayName: Lizhard Race
+	}
+
+	HumanRace: {
+		Tooltip:
+			'''
+			Your a human, quite average but a plenty
+			As a Human your mana regeneration is boosted
+			'''
+		DisplayName: Human Race
+	}
+
+	ElfRace: {
+		Tooltip:
+			'''
+			Elves are an extinct race, unknown by many
+			As an Elf your damage with range is boosted
+			'''
+		DisplayName: Elf Race
+	}
+
+	DryadRace: {
+		Tooltip:
+			'''
+			The dryads are only a few, and they are one with nature
+			As a Dryad your life regeneration is boosted
+			'''
+		DisplayName: Dryad Race
+	}
+
+	EngravedStone: {
+		DisplayName: Engraved Stone
+		Tooltip:
+			'''
+			Inflictor Class
+			Raises Debuff chance by 10%
+			'''
+	}
+
+	MossyStone: {
+		DisplayName: Mossy Stone
+		Tooltip:
+			'''
+			Inflictor Class
+			Raises poison by 40%
+			Raises Debuff chance by 10%
+			'''
+	}
+
+	VineClump: {
+		DisplayName: Vine Clump
+		Tooltip:
+			'''
+			Inflictor Class
+			Raises Poison by 40%
+			'''
+	}
+
+	TinAlloyDualSword: {
+		Tooltip: "'An Inflictors starting point..'"
+		DisplayName: Tin Alloy Sword
+	}
+
+	CursedOilPot: {
+		Tooltip:
+			'''
+			Coats your weapon in the cursed flames of the corruption, giving you a 10% chance to inflict Cursed Flames
+			'Bloody 'El, these flames are green'
+			'''
+		DisplayName: Cursed Oil Pot
+	}
+
+	TrueFlameTalisman: {
+		Tooltip:
+			'''
+			Inflictor Class
+			'Flames Galore!!!'
+			Fire Infliction Boosted by 20%
+			Cursed Flame Infliction Boosted by 15%
+			Forst Burn Infliction Boosted by 10%
+			'''
+		DisplayName: True Flame Talisman
+	}
+
+	HeavenlyStone: {
+		Tooltip:
+			'''
+			Inflictor Class
+			'An Angel..!'
+			Base Debuff Chance Boosted by 30%
+			'''
+		DisplayName: Heavenly Stone
+	}
+
+	IceStone: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Frost Burn Chance Boosted by 10%
+			'''
+		DisplayName: Ice Stone
+	}
+
+	IceRock: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chancd Boosted by 20%
+			Frost Burn Chance Boosted by 10%
+			'''
+		DisplayName: Ice Rock
+	}
+
+	HeavenlyBlaze: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 30%
+			Cursed Flame Chance Boosted by 20%
+			Flame Chance Boosted by 20%
+			Frost Burn Chance Boosted by 20%
+			'''
+		DisplayName: Heavenly Blaze
+	}
+
+	FlameTalisman: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Flame Chance Boosted by 20%
+			'''
+		DisplayName: Flame Talisman
+	}
+
+	EngravedFire: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 10%
+			Flame Chance Boosted By 20%
+			'''
+		DisplayName: Engraved Fire
+	}
+
+	EvilRock: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 20%
+			'''
+		DisplayName: Evil Rock
+	}
+
+	HeavenlyCorruption: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 30%
+			Cursed Flame Chance Boosted by 15%
+			'''
+		DisplayName: Heavenly Corruption
+	}
+
+	CursedRock: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 20%
+			Cursed Flame Chance Boosted by 15%
+			'''
+		DisplayName: Cursed Rock
+	}
+
+	CursedCorruptionSeed: {
+		Tooltip:
+			'''
+			Inflictor Class
+			CursedFlame Chance Boosted by 15%
+			'''
+		DisplayName: Cursed Corruption Seed
+	}
+
+	Neuron: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Confusion Chance Boosted by 50%
+			'''
+		DisplayName: Neuron
+	}
+
+	ConfusionMask: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 10%
+			Confusion Boosted by 25%
+			'''
+		DisplayName: Confusion Mask
+	}
+
+	BrainOfTrueConfusion: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Confusiion Chance Boosted by 75%
+			'''
+		DisplayName: Brain Of True Confusion
+	}
+
+	BrainCell: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Confusion Chance Boosted by 25%
+			'''
+		DisplayName: Brain Cell
+	}
+
+	IvoryBlade: {
+		Tooltip: ""
+		DisplayName: Ivory Blade
+	}
+
+	EvilCell: {
+		DisplayName: Evil Cell
+		Tooltip:
+			'''
+			Inflictor Class
+			Confusion Chance Boosted by 25%
+			Base Debuff Chance Boosted by 20%
+			'''
+	}
+
+	CorruptedCellStone: {
+		DisplayName: Corrupted Cell Stone
+		Tooltip:
+			'''
+			Inflictor Class
+			Cursed Flame Chance Boosted by 15%
+			Base Debuff Chance Boosted by 30%
+			Confusion Chance Boosted by 50%
+			'''
+	}
+
+	HeavenlyFire: {
+		DisplayName: Heavenly Fire
+		Tooltip:
+			'''
+			Inflictor Class
+			Flame Chance Boosted by 20%
+			Base Debuff Boosted by 30%
+			'''
+	}
+
+	AngelicColdness: {
+		DisplayName: Angelic Coldness
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Boosted by 30%
+			Frost Burn Chance Boosted by 35%
+			'''
+	}
+
+	PoisonousRock: {
+		DisplayName: Poisonous Rock
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 20%
+			Poison Chance Boosted by 25%
+			'''
+	}
+
+	PoisonStone: {
+		DisplayName: Poison Stone
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 30%
+			Poison Chance Boosted by 80%
+			'''
+	}
+
+	PoisonVile: {
+		DisplayName: Poison Vile
+		Tooltip:
+			'''
+			Inflictor Class
+			Posion Chance Boosted by 80%
+			'''
+	}
+
+	CelestialBodies: {
+		DisplayName: Celestial Bodies
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 30%
+			True Flame Chance Boosted by 25%
+			Poison Chance Boosted by 25%
+			Confusion Chance Boosted by 25%
+			'''
+	}
+
+	FlameKingIfrit: {
+		DisplayName: Flame King Ifrit
+		Tooltip:
+			'''
+			Inflictor Class
+			Flame Chance Boosted by 50%
+			'''
+	}
+
+	PearlescentIfrit: {
+		DisplayName: Pearlescent Ifrit
+		Tooltip:
+			'''
+			Inflictor Class
+			Flame Chance Boosted by 50%
+			Base Debuff Chance Boosted by 30%
+			'''
+	}
+
+	SoulCharade: {
+		DisplayName: Soul Charade
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 50%
+			Flame Chance Boosted by 50%
+			'''
+	}
+
+	SoulKing: {
+		DisplayName: Soul King
+		Tooltip:
+			'''
+			Inflictor Class
+			True Flame Chance Boosted by 20%
+			Base Debuff Chance Boosted by 50%
+			'''
+	}
+
+	SoulPoison: {
+		DisplayName: Soul Poison
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 50%
+			Poison Chance Boosted by 65%
+			'''
+	}
+
+	SoulStone: {
+		DisplayName: Soul Stone
+		Tooltip:
+			'''
+			Inflictor Class
+			Base Debuff Chance Boosted by 50%
+			'''
+	}
+
+	SoulWeaverBlock: {
+		Tooltip: "'Souls Can Be Affected only with this.'"
+		DisplayName: Soul Weaver Block
+	}
+
+	BlightOre: {
+		DisplayName: Blight Ore
+		Tooltip: "'A Blight upon this world.'"
+	}
+
+	RadianceBar: {
+		DisplayName: Radiance Bar
+		Tooltip: "'Only Light.'"
+	}
+
+	CrescentRose: {
+		DisplayName: Crescent Rose
+		Tooltip: ""
+	}
+
+	BladeOfJudgement: {
+		DisplayName: Blade Of Judgement
+		Tooltip: Casts Judgement upon your foes
+	}
+
+	CrystallineSealedBladeMurakumo: {
+		DisplayName: Crystalline Sealed Blade Murakumo
+		Tooltip: ""
+	}
+
+	NG_: {
+		DisplayName: NG+
+		Tooltip: ""
+	}
+
+	WorldReturn: {
+		DisplayName: World Return
+		Tooltip: ""
+	}
+
+	DecayCrown: {
+		Tooltip:
+			'''
+			Inflictor Class
+			Entropy Chance Boosted by 10%
+			'''
+		DisplayName: Decay Crown
+	}
+
+	Xvinim_sPlating: {
+		DisplayName: Xvinim's Plating
+		Tooltip: ""
+	}
+
+	Xvinim_sPants: {
+		Tooltip: ""
+		DisplayName: Xvinim's Pants
+	}
+
+	Xvinim_sHelmet: {
+		Tooltip: ""
+		DisplayName: Xvinim's Helmet
+	}
+
+	GildedCopperHelmet: {
+		DisplayName: Gilded Copper Helmet
+		Tooltip: Flame Chance Boosted by 5%
+	}
+
+	GildedSilverGreatHelm: {
+		Tooltip: Frost Burn Boosted by 5%
+		DisplayName: Gilded Silver Great Helm
+	}
+
+	SilverMask: {
+		Tooltip:
+			'''
+			Melee Damage Boosted by 2%
+			Enemies are more likely to target you.
+			'''
+		DisplayName: Silver Mask
+	}
+
+	GildedTungstenGreatHelm: {
+		Tooltip: Frost Burn Boosted by 6%
+		DisplayName: Gilded Tungsten Great Helm
+	}
+
+	EtchedLeggings: {
+		Tooltip: Scorch Chance Boosted by 8%
+		DisplayName: Etched Leggings
+	}
+
+	EtchedGreatHelm: {
+		Tooltip: Base Debuff Boosted by 10%
+		DisplayName: Etched Helmet
+	}
+
+	EtchedChestplate: {
+		Tooltip: Scorch Chance Boosted by 4%
+		DisplayName: Etched Chestplate
+	}
+
+	CursingEmblem: {
+		Tooltip: 15% Increased Inflictor Damage
+		DisplayName: Cursing Emblem
+	}
+
+	BlightedSoul: {
+		DisplayName: Blighted Soul
+		Tooltip: ""
+	}
+
+	EnsnaredSoul: {
+		DisplayName: Ensnared Soul
+		Tooltip: ""
+	}
+
+	DecayingSoul: {
+		DisplayName: Decaying Soul
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	Harbinger.DisplayName: Harbinger
+	BlastOfUnholiness.DisplayName: Blast Of Unholiness
+	CelestialStars.DisplayName: Celestial Stars
+	CelestialStarsLine.DisplayName: Celestial Stars Line
+	MoonLordDrop.DisplayName: Moon Lord Drop
+	NebulaMoonBlaze.DisplayName: Nebula Moon Blaze
+	SolarMeld.DisplayName: Solar Meld
+	SingeCut.DisplayName: Singe Cut
+	SingeSlicer.DisplayName: Singe Slicer
+	MassiveSlashProjectile.DisplayName: Massive Slash Projectile
+	DamageDust.DisplayName: Damage Dust
+	CircleEffect.DisplayName: Circle Effect
+	SingeSpear.DisplayName: Singe Spear
+	NewNebulaMoon.DisplayName: New Nebula Moon
+	NebulaSpear.DisplayName: Nebula Spear
+	VoidArrow.DisplayName: Void Arrow
+	IvoryProj.DisplayName: Ivory Proj
+	MurakumoParry.DisplayName: Murakumo Parry
+}
+
+NPCs: {
+	ForgottenCultist.DisplayName: Forgotten Cultist, Savior of the Celestial Stars
+	NebulaMoon.DisplayName: Nebula Moon
+	SolarOrb.DisplayName: Solar Orb
+	Migraine.DisplayName: Migraine
+}
+
+Buffs: {
+	NewNebulaMoonBuff: {
+		Description: He's just a little guy.
+		DisplayName: New Nebula Moon
+	}
+
+	NewMoonManaDebuff: {
+		Description: Slower mana regen, and your regen accessories don't work
+		DisplayName: No Mana?
+	}
+
+	Entropy: {
+		DisplayName: Entropy
+		Description: Mods.Sxul.Buffs.Entropy.Description
+	}
+
+	Equilibrium: {
+		DisplayName: Equilibrium
+		Description: Mods.Sxul.Buffs.Equilibrium.Description
+	}
+
+	HitScan: {
+		DisplayName: Hit Scan
+		Description: Mods.Sxul.Buffs.HitScan.Description
+	}
+
+	ScorchedWinds: {
+		Description: Mods.Sxul.Buffs.ScorchedWinds.Description
+		DisplayName: Scorched Winds
+	}
+}
+
+DamageClasses.InflictorClass.DisplayName: Infliction Damage
+
+Tiles: {
+	EtchedSandTile.MapEntry: Etched Sand
+	CrackedSoulTile.MapEntry: Cracked Soul
+	BlightOreTile.MapEntry: Blight Ore
+	BlightedSoulTile.MapEntry: Blighted Soul
+	RighteousSoulTile.MapEntry: Righteous Soul Tile
+	PitySoulTile.MapEntry: Pity Soul Tile
+	MurderousSoulTile.MapEntry: Murderous Soul Tile
+	EnsnaredSoulTile.MapEntry: Ensnared Soul Tile
+	DecayingSoulTile.MapEntry: Decaying Soul Tile
+}
+
+Configs: {
+	SxulConfig: {
+		DisplayName: Sxul Config
+
+		EnableCustomBossBar: {
+			Label: Enable Custom Boss Bar
+			Tooltip: Toggle the custom boss bar for vanilla bosses on or off.
+		}
+
+		SpecialSeedFromFire: {
+			Label: Special Seeds From Fire
+			Tooltip: Enable This Mod's Special Seeds.
+		}
+	}
+
+	SxulServer: {
+		DisplayName: Sxul Server
+
+		BossReworks: {
+			Label: Disable Boss Reworks
+			Tooltip: Disables the Adjustments of Vanilla Bosses
+		}
+
+		SpecialSeedFromFire: {
+			Label: SxulFire Seed
+			Tooltip: Enables/Disables the 'SxulFire' Seed
+		}
+	}
+
+	BackgroundStyle: {
+		Halloweener: {
+			Tooltip: Change the Main Menu Backgrounds to Halloween Versions.
+			Label: Halloween Style Backgrounds
+		}
+
+		Christmas: {
+			Tooltip: Change the Main Menu Backgrounds to Christmas Versions.
+			Label: Christmas Style Backgrounds
+		}
+
+		DisplayName: Background Style
+	}
+}

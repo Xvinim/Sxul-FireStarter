@@ -1,0 +1,103 @@
+Basic rework functionalities, this will include literally everything i will document, i.e. bosses will be here, and maybe accessories/weapons?
+
+Lets begins with the obvious.. Bosses(seeing as i've already reworked(nearly) all pre-hardmode bosses.)
+
+ModifyNPCLoot(NPC npc, NPCLoot npcLoot)
+---> Alright, quite simple(it's literally in the name). This hook modifies NPC loot, the two things within ModifyNPCLoot-->()<--here.
+are basically just setting things, so whenever npc.ThisCode, is used, it recognizes npc<-- as NPC(a value for tModLoader rather than our
+simplification(this is indeed needed by the way)) and NPCLoot npcLoot.. idk XD
+
+parameters for ModifyNPCLoot()
+->npc.Add()
+->npc.Remove()
+<-- Both are quite self-explanitory.. Add adds, Remove removes.. idk how to use Remove but ik it exists in that specific spot. So, to add we
+would do something like..->
+--------------------------------------------------------------------------------------------------------------------------------------------------
+using Terraria.GameContent.ItemDropRules;//ALWAYS remeber this or the entire thing won't work at all..
+
+public override void ModifyNPCLoot(NPC npc, NPCLoot npcLoot)
+{
+	npc.Add(ItemDropRule.Common(ItemID.Dirt, 1, 1, 1));
+				^		  ^        ^         ^  ^  ^
+	  Setting a dropRule  ^ Getting an ItemID^  ^  ^
+	         Setting it as a Common Drop. chance^  ^
+									     minAmount maxAmount
+}
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----->also, the area where we set the chance. Let's assemble a list of said numbers and their values.
+=============================================================================================================================================================
+1 = 100%
+2 = 50%
+3 = 33.33%
+4 = 25%
+5 = 20%
+6 = 16.67%
+7 = 14.29%
+1000 = 0.01%
+1000000 = 0.001%
+==============================================================================================================================================================
+-----> Some code for switching the stats per difficulty.
+<-- Also, Main.specialSeedWorld applies to all special seeds, And to be honest that's good.
+<-- specialMode = true; is a topic best left for later as it's only set here, so let's just get into some other things presented here.
+<--- if (npc.type == NPCID.Deerclops)<---Here--- is basically just telling the code, "Hey, this boss!", this is also something needed when
+utilizing ModifyNPCLoot(). And the rest are, well, self-explainitory...
+=====================================================================================================================================================
+public override void SetDefaults(NPC npc)
+        {
+			if (npc.type == NPCID.Deerclops)
+			{
+				if (Main.specialSeedWorld)
+				{
+					npc.lifeMax = 3000;
+					npc.damage = 35;
+					npc.defense = 8;
+					specialMode = true;
+				}
+				else if (Main.masterMode)
+				{
+					npc.lifeMax = 2280;
+					npc.damage = 29;
+					npc.defense = 7;
+				}
+				else if (Main.expertMode)
+				{
+					npc.lifeMax = 1250;
+					npc.damage = 22;
+					npc.defense = 6;
+				}
+				else
+				{
+					npc.lifeMax = 800;
+					npc.damage = 18;
+					npc.defense = 5;
+				}
+			}
+        }
+========================================================================================================================================================
+-----> AI(), Normally you'd override this function when doing custom ai for a projectile or a custom NPC.. but in this case we're simply adding
+to the existing ai.. Here's our example from our favorite frien. Deerclopicus boy.
+*******************************************************************************************************************************************************
+public override void AI(NPC npc)// Overriding AI(), and settinf NPC to npc for ease of access(plus it's weirdly required..)
+	{
+		if (npc.type == NPCID.Deerclops)//if it's deerclops(cause that's always needed inside every function.)
+		{
+			base.AI(npc); // Ensure base behavior is retained(<--What he said.)
+
+			if (specialMode)// Hey, it's that thing i didn't talk about. to be put simply, we can do special things when in a special seed world
+			//i.e. add debuffs to the player, add buffs to the boss, hell, if i wanted to even give them a retexture(idl how btw.)
+			{
+				if (npc.HasPlayerTarget)// i actually don't understand this one too much..(but it works so why would i change it?)
+				{
+					Player player = Main.player[npc.target];
+					// Apply Frostburn debuff if the NPC is hitting the player(again idk how this is testing for a hitscan, rather than a radius
+					//but who the fuck am i to complain?(ofc other than the guy writing this.))
+				if (npc.Distance(player.Center) < 600f && player.active)
+				{
+					player.AddBuff(BuffID.Frostburn, 300); //this is an example of applying a debuff to the player on hit(when in a special
+					//seed world. Yes. Simple as that.)
+				}
+			}
+		}
+	}
+}
+*************************************************************************************************************************************************************
